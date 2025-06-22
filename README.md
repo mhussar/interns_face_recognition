@@ -1,6 +1,10 @@
 NOTE: The code in this repo is only a POC that face recognition works with this implementation. It is not the final code indicated by the project summary below
-# 🤖 Face Recognition Kiosk with Voice Interaction
 
+This file is large and it is easier to download directly instead of having in the repo:
+https://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 
+
+# 🤖 Face Recognition Kiosk with Voice Interaction
+ 
 ## 📌 Overview
 
 This project implements a smart kiosk capable of recognizing individuals, engaging them through natural conversation, and responding interactively via AI. It’s built initially for a Windows development environment, with deployment targeted on a Raspberry Pi for compact, standalone operation.
